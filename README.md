@@ -1,4 +1,4 @@
-# My readme file containing the printf project done by Muhammad Rabiu Umar and Anthony Ugwu and it include trhe following tasks.
+# My readme file contains the printf project done by Muhammad Rabiu Umar and Anthony Ugwu and it includes the following tasks.
 Write a function that produces output according to a format.
 
 Handle the following conversion specifiers:
